@@ -1,0 +1,251 @@
+﻿medicine_name,category,quantity,unit,expiration_date
+Paracetamol,Analgesic / Antipyretic,168,tablet,2027-05-31
+Ibuprofen,NSAID / Pain Relief,11,tablet,2029-03-06
+Mefenamic Acid,NSAID / Pain Relief,75,capsule,2027-10-14
+Aspirin,Analgesic / Antiplatelet,62,tablet,2027-06-28
+Cetirizine,Antihistamine,193,tablet,2027-05-21
+Loratadine,Antihistamine,178,tablet,2029-03-05
+Chlorphenamine,Antihistamine,233,tablet,2028-08-17
+Diphenhydramine,Antihistamine,27,capsule,2028-10-02
+Ambroxol,Mucolytic,113,tablet,2027-03-10
+Carbocisteine,Mucolytic,12,capsule,2027-05-12
+Guaifenesin,Expectorant,60,tablet,2027-10-02
+Dextromethorphan,Cough Suppressant,66,bottle,2028-10-14
+Salbutamol,Bronchodilator,11,tablet,2028-09-02
+Montelukast,Respiratory / Allergy,55,tablet,2029-02-08
+Loperamide,Antidiarrheal,171,capsule,2029-01-24
+Oral Rehydration Salts,Rehydration,144,sachet,2028-04-10
+Zinc Sulfate,Mineral Supplement,61,tablet,2028-05-10
+Calcium Carbonate,Antacid / Supplement,155,tablet,2027-11-17
+Aluminum Hydroxide + Magnesium Hydroxide,Antacid,212,tablet,2029-07-15
+Omeprazole,Acid Reducer,6,capsule,2029-03-24
+Famotidine,Acid Reducer,211,tablet,2027-07-19
+Hyoscine Butylbromide,Antispasmodic,183,tablet,2028-04-13
+Simethicone,Anti-gas,92,tablet,2027-11-17
+Bisacodyl,Laxative,44,tablet,2027-09-14
+Lactulose,Laxative,45,bottle,2027-05-21
+Ferrous Sulfate,Iron Supplement,28,tablet,2028-03-01
+Folic Acid,Vitamin / Supplement,29,tablet,2028-02-08
+Vitamin C,Vitamin,221,tablet,2028-01-24
+Vitamin B Complex,Vitamin,159,tablet,2027-11-03
+Multivitamins,Vitamin / Supplement,211,tablet,2027-03-22
+Vitamin D3,Vitamin,60,softgel,2028-08-08
+Calcium + Vitamin D3,Supplement,36,tablet,2029-09-07
+Oral Glucose,Emergency / Glucose,101,sachet,2027-04-27
+Povidone-Iodine,Antiseptic,72,bottle,2027-12-03
+Chlorhexidine,Antiseptic,48,bottle,2028-09-19
+70% Isopropyl Alcohol,Antiseptic,26,bottle,2029-01-27
+Hydrogen Peroxide,Antiseptic,10,bottle,2027-03-24
+Calamine Lotion,Skin Care,31,bottle,2029-04-07
+Zinc Oxide Ointment,Skin Protectant,39,tube,2027-04-28
+Petroleum Jelly,Skin Protectant,31,jar,2029-07-12
+Clotrimazole Cream,Antifungal,14,tube,2028-03-01
+Miconazole Cream,Antifungal,37,tube,2028-05-15
+Terbinafine Cream,Antifungal,48,tube,2027-07-22
+Hydrocortisone Cream,Topical Corticosteroid,49,tube,2028-02-04
+Mupirocin Ointment,Topical Antibiotic,28,tube,2028-12-23
+Fusidic Acid Cream,Topical Antibiotic,36,tube,2029-01-24
+Bacitracin Ointment,Topical Antibiotic,11,tube,2028-10-21
+Lidocaine Gel,Local Anesthetic,23,tube,2028-08-05
+Artificial Tears,Eye Care,33,bottle,2027-07-23
+Sodium Chloride Nasal Spray,Nasal Care,61,bottle,2028-02-29
+Ear Wax Softener,Ear Care,36,bottle,2029-09-10
+Clotrimazole Vaginal Tablet,Antifungal,168,tablet,2029-01-10
+Nitrofurantoin,Antibiotic (Prescription),147,capsule,2027-09-18
+Amoxicillin,Antibiotic (Prescription),180,capsule,2028-01-04
+Amoxicillin + Clavulanic Acid,Antibiotic (Prescription),220,tablet,2029-04-02
+Azithromycin,Antibiotic (Prescription),203,tablet,2027-04-04
+Cephalexin,Antibiotic (Prescription),63,capsule,2029-05-27
+Cefuroxime,Antibiotic (Prescription),13,tablet,2029-05-10
+Doxycycline,Antibiotic (Prescription),85,capsule,2028-03-22
+Metronidazole,Antibiotic / Antiprotozoal (Prescription),73,tablet,2027-04-14
+Ciprofloxacin,Antibiotic (Prescription),59,tablet,2029-08-29
+Co-trimoxazole,Antibiotic (Prescription),246,tablet,2028-09-08
+Fluconazole,Antifungal (Prescription),229,capsule,2029-02-10
+Acyclovir,Antiviral (Prescription),85,tablet,2027-09-11
+Metformin,Antidiabetic (Prescription),172,tablet,2028-07-01
+Gliclazide,Antidiabetic (Prescription),106,tablet,2029-07-30
+Amlodipine,Antihypertensive (Prescription),239,tablet,2028-11-25
+Losartan,Antihypertensive (Prescription),122,tablet,2027-07-02
+Lisinopril,Antihypertensive (Prescription),72,tablet,2027-06-28
+Atorvastatin,Lipid-Lowering (Prescription),68,tablet,2029-03-09
+Simvastatin,Lipid-Lowering (Prescription),148,tablet,2028-08-10
+Levothyroxine,Thyroid Medicine (Prescription),72,tablet,2029-03-11
+Prednisone,Corticosteroid (Prescription),154,tablet,2028-04-19
+Dexamethasone,Corticosteroid (Prescription),234,tablet,2028-09-25
+Clonazepam,Controlled / Prescription,107,tablet,2028-02-11
+Cetirizine Syrup,Antihistamine,30,bottle,2027-06-27
+Paracetamol Syrup,Analgesic / Antipyretic,67,bottle,2028-06-25
+Ibuprofen Suspension,NSAID / Pain Relief,13,bottle,2029-03-20
+Amoxicillin Suspension,Antibiotic (Prescription),8,bottle,2029-07-06
+Salbutamol Nebule,Bronchodilator,33,nebule,2027-07-12
+Normal Saline 0.9%,Medical Solution,22,bottle,2029-04-27
+Dextrose 5%,IV Fluid,56,bottle,2028-10-08
+Ringer's Lactate,IV Fluid,10,bottle,2028-03-06
+Glucose Test Strips,Diabetes Supply,102,strip,2028-10-08
+Lancets,Diabetes Supply,124,piece,2028-07-31
+Disposable Syringe 3 mL,Medical Supply,69,piece,2028-08-25
+Disposable Syringe 5 mL,Medical Supply,225,piece,2029-09-28
+Sterile Gauze,First Aid,7,pack,2029-01-02
+Adhesive Bandage,First Aid,189,piece,2027-06-03
+Elastic Bandage,First Aid,179,roll,2029-07-31
+Medical Tape,First Aid,142,roll,2029-03-15
+Cotton Balls,First Aid,73,pack,2029-04-03
+Cotton Swabs,First Aid,169,pack,2028-01-20
+Disposable Gloves,PPE / Clinic Supply,33,pair,2027-12-03
+Surgical Mask,PPE / Clinic Supply,116,piece,2027-07-17
+N95 Respirator,PPE / Clinic Supply,121,piece,2027-02-09
+Instant Cold Pack,First Aid,249,piece,2029-02-14
+Burn Gel,First Aid,229,sachet,2029-02-11
+Wound Wash Saline,First Aid,35,bottle,2028-07-02
+Antiseptic Wipes,First Aid,200,pack,2027-08-07
+Digital Thermometer,Clinic Equipment,134,piece,2029-08-28
+Micropore Tape,First Aid,32,roll,2029-07-16
+Eye Wash Solution,Eye Care / First Aid,40,bottle,2029-06-16
+Hand Sanitizer,Hygiene,66,bottle,2028-10-21
+Paracetamol,Analgesic / Antipyretic,55,tablet,2027-07-12
+Ibuprofen,NSAID / Pain Relief,100,tablet,2029-03-27
+Mefenamic Acid,NSAID / Pain Relief,46,capsule,2028-08-11
+Aspirin,Analgesic / Antiplatelet,249,tablet,2029-04-13
+Cetirizine,Antihistamine,241,tablet,2028-08-02
+Loratadine,Antihistamine,240,tablet,2027-02-06
+Chlorphenamine,Antihistamine,158,tablet,2028-01-03
+Diphenhydramine,Antihistamine,130,capsule,2027-02-25
+Ambroxol,Mucolytic,33,tablet,2029-09-14
+Carbocisteine,Mucolytic,97,capsule,2029-07-24
+Guaifenesin,Expectorant,217,tablet,2029-05-12
+Dextromethorphan,Cough Suppressant,41,bottle,2027-10-09
+Salbutamol,Bronchodilator,19,tablet,2027-10-10
+Montelukast,Respiratory / Allergy,229,tablet,2028-09-08
+Loperamide,Antidiarrheal,247,capsule,2027-04-27
+Oral Rehydration Salts,Rehydration,26,sachet,2029-02-24
+Zinc Sulfate,Mineral Supplement,129,tablet,2029-05-21
+Calcium Carbonate,Antacid / Supplement,22,tablet,2029-03-25
+Aluminum Hydroxide + Magnesium Hydroxide,Antacid,141,tablet,2029-03-31
+Omeprazole,Acid Reducer,37,capsule,2027-06-17
+Famotidine,Acid Reducer,173,tablet,2028-06-06
+Hyoscine Butylbromide,Antispasmodic,247,tablet,2028-08-21
+Simethicone,Anti-gas,47,tablet,2027-11-04
+Bisacodyl,Laxative,140,tablet,2029-07-18
+Lactulose,Laxative,79,bottle,2028-04-14
+Ferrous Sulfate,Iron Supplement,59,tablet,2029-09-14
+Folic Acid,Vitamin / Supplement,143,tablet,2029-03-20
+Vitamin C,Vitamin,191,tablet,2029-01-12
+Vitamin B Complex,Vitamin,56,tablet,2029-02-05
+Multivitamins,Vitamin / Supplement,84,tablet,2028-03-20
+Vitamin D3,Vitamin,49,softgel,2028-04-29
+Calcium + Vitamin D3,Supplement,235,tablet,2028-07-19
+Oral Glucose,Emergency / Glucose,120,sachet,2027-06-09
+Povidone-Iodine,Antiseptic,33,bottle,2027-09-24
+Chlorhexidine,Antiseptic,10,bottle,2028-01-18
+70% Isopropyl Alcohol,Antiseptic,4,bottle,2028-09-30
+Hydrogen Peroxide,Antiseptic,72,bottle,2027-09-29
+Calamine Lotion,Skin Care,77,bottle,2027-09-19
+Zinc Oxide Ointment,Skin Protectant,2,tube,2027-04-19
+Petroleum Jelly,Skin Protectant,9,jar,2027-09-28
+Clotrimazole Cream,Antifungal,10,tube,2029-08-21
+Miconazole Cream,Antifungal,6,tube,2029-07-05
+Terbinafine Cream,Antifungal,44,tube,2027-04-19
+Hydrocortisone Cream,Topical Corticosteroid,67,tube,2027-10-07
+Mupirocin Ointment,Topical Antibiotic,37,tube,2028-12-22
+Fusidic Acid Cream,Topical Antibiotic,64,tube,2027-09-13
+Bacitracin Ointment,Topical Antibiotic,71,tube,2027-06-21
+Lidocaine Gel,Local Anesthetic,75,tube,2028-09-18
+Artificial Tears,Eye Care,62,bottle,2027-10-12
+Sodium Chloride Nasal Spray,Nasal Care,62,bottle,2029-05-12
+Ear Wax Softener,Ear Care,54,bottle,2027-08-19
+Clotrimazole Vaginal Tablet,Antifungal,29,tablet,2027-05-16
+Nitrofurantoin,Antibiotic (Prescription),173,capsule,2028-04-22
+Amoxicillin,Antibiotic (Prescription),95,capsule,2028-04-14
+Amoxicillin + Clavulanic Acid,Antibiotic (Prescription),110,tablet,2028-05-29
+Azithromycin,Antibiotic (Prescription),226,tablet,2029-02-21
+Cephalexin,Antibiotic (Prescription),18,capsule,2028-12-26
+Cefuroxime,Antibiotic (Prescription),172,tablet,2028-11-28
+Doxycycline,Antibiotic (Prescription),30,capsule,2027-04-09
+Metronidazole,Antibiotic / Antiprotozoal (Prescription),108,tablet,2029-02-20
+Ciprofloxacin,Antibiotic (Prescription),91,tablet,2029-05-05
+Co-trimoxazole,Antibiotic (Prescription),225,tablet,2027-05-28
+Fluconazole,Antifungal (Prescription),68,capsule,2027-08-21
+Acyclovir,Antiviral (Prescription),53,tablet,2028-08-08
+Metformin,Antidiabetic (Prescription),119,tablet,2027-06-29
+Gliclazide,Antidiabetic (Prescription),113,tablet,2027-08-12
+Amlodipine,Antihypertensive (Prescription),76,tablet,2028-05-24
+Losartan,Antihypertensive (Prescription),68,tablet,2029-07-20
+Lisinopril,Antihypertensive (Prescription),241,tablet,2027-04-24
+Atorvastatin,Lipid-Lowering (Prescription),118,tablet,2029-05-13
+Simvastatin,Lipid-Lowering (Prescription),225,tablet,2029-07-01
+Levothyroxine,Thyroid Medicine (Prescription),145,tablet,2027-05-17
+Prednisone,Corticosteroid (Prescription),17,tablet,2028-12-04
+Dexamethasone,Corticosteroid (Prescription),143,tablet,2029-06-11
+Clonazepam,Controlled / Prescription,8,tablet,2027-05-12
+Cetirizine Syrup,Antihistamine,32,bottle,2027-07-26
+Paracetamol Syrup,Analgesic / Antipyretic,54,bottle,2028-06-17
+Ibuprofen Suspension,NSAID / Pain Relief,63,bottle,2027-09-12
+Amoxicillin Suspension,Antibiotic (Prescription),53,bottle,2029-08-18
+Salbutamol Nebule,Bronchodilator,20,nebule,2027-07-24
+Normal Saline 0.9%,Medical Solution,50,bottle,2027-02-08
+Dextrose 5%,IV Fluid,51,bottle,2027-11-04
+Ringer's Lactate,IV Fluid,60,bottle,2027-11-25
+Glucose Test Strips,Diabetes Supply,113,strip,2029-01-19
+Lancets,Diabetes Supply,250,piece,2029-02-23
+Disposable Syringe 3 mL,Medical Supply,205,piece,2028-08-28
+Disposable Syringe 5 mL,Medical Supply,174,piece,2029-02-10
+Sterile Gauze,First Aid,129,pack,2027-07-14
+Adhesive Bandage,First Aid,53,piece,2027-12-06
+Elastic Bandage,First Aid,60,roll,2027-04-06
+Medical Tape,First Aid,153,roll,2029-02-28
+Cotton Balls,First Aid,143,pack,2027-04-09
+Cotton Swabs,First Aid,196,pack,2027-12-24
+Disposable Gloves,PPE / Clinic Supply,19,pair,2027-03-29
+Surgical Mask,PPE / Clinic Supply,154,piece,2028-06-08
+N95 Respirator,PPE / Clinic Supply,133,piece,2029-09-04
+Instant Cold Pack,First Aid,223,piece,2028-08-02
+Burn Gel,First Aid,45,sachet,2027-04-05
+Wound Wash Saline,First Aid,67,bottle,2027-04-29
+Antiseptic Wipes,First Aid,222,pack,2027-08-15
+Digital Thermometer,Clinic Equipment,22,piece,2028-10-07
+Micropore Tape,First Aid,22,roll,2028-12-28
+Eye Wash Solution,Eye Care / First Aid,32,bottle,2028-03-25
+Hand Sanitizer,Hygiene,17,bottle,2029-09-27
+Paracetamol,Analgesic / Antipyretic,232,tablet,2028-09-11
+Ibuprofen,NSAID / Pain Relief,68,tablet,2028-09-20
+Mefenamic Acid,NSAID / Pain Relief,157,capsule,2027-03-18
+Aspirin,Analgesic / Antiplatelet,163,tablet,2027-04-30
+Cetirizine,Antihistamine,112,tablet,2028-12-10
+Loratadine,Antihistamine,154,tablet,2028-09-06
+Chlorphenamine,Antihistamine,138,tablet,2027-12-26
+Diphenhydramine,Antihistamine,244,capsule,2027-10-31
+Ambroxol,Mucolytic,57,tablet,2028-12-22
+Carbocisteine,Mucolytic,188,capsule,2027-12-24
+Guaifenesin,Expectorant,66,tablet,2027-11-04
+Dextromethorphan,Cough Suppressant,52,bottle,2027-06-20
+Salbutamol,Bronchodilator,176,tablet,2028-11-27
+Montelukast,Respiratory / Allergy,81,tablet,2028-05-19
+Loperamide,Antidiarrheal,85,capsule,2029-09-14
+Oral Rehydration Salts,Rehydration,197,sachet,2029-09-21
+Zinc Sulfate,Mineral Supplement,23,tablet,2027-02-15
+Calcium Carbonate,Antacid / Supplement,122,tablet,2028-11-03
+Aluminum Hydroxide + Magnesium Hydroxide,Antacid,149,tablet,2027-05-19
+Omeprazole,Acid Reducer,23,capsule,2028-08-09
+Famotidine,Acid Reducer,59,tablet,2028-07-08
+Hyoscine Butylbromide,Antispasmodic,72,tablet,2027-06-21
+Simethicone,Anti-gas,243,tablet,2028-01-29
+Bisacodyl,Laxative,230,tablet,2027-04-17
+Lactulose,Laxative,33,bottle,2028-02-19
+Ferrous Sulfate,Iron Supplement,77,tablet,2027-07-17
+Folic Acid,Vitamin / Supplement,117,tablet,2029-06-08
+Vitamin C,Vitamin,144,tablet,2029-01-26
+Vitamin B Complex,Vitamin,82,tablet,2028-10-24
+Multivitamins,Vitamin / Supplement,211,tablet,2028-12-06
+Vitamin D3,Vitamin,69,softgel,2027-02-14
+Calcium + Vitamin D3,Supplement,175,tablet,2029-05-22
+Oral Glucose,Emergency / Glucose,146,sachet,2027-12-09
+Povidone-Iodine,Antiseptic,15,bottle,2029-09-24
+Chlorhexidine,Antiseptic,19,bottle,2027-11-03
+70% Isopropyl Alcohol,Antiseptic,16,bottle,2029-08-05
+Hydrogen Peroxide,Antiseptic,15,bottle,2029-03-07
+Calamine Lotion,Skin Care,72,bottle,2027-07-15
+Zinc Oxide Ointment,Skin Protectant,36,tube,2027-11-21
+Petroleum Jelly,Skin Protectant,79,jar,2027-09-09
+Clotrimazole Cream,Antifungal,45,tube,2027-09-02
+Miconazole Cream,Antifungal,35,tube,2028-07-07
